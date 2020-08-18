@@ -22,7 +22,7 @@ The game includes a short adventure where you play as the child protagonist, Hen
 
 This project was originally created during University as a final project, and was inspired by one of my favorite childhood books [*Harold and the Purple Crayon*](https://en.wikipedia.org/wiki/Harold_and_the_Purple_Crayon) (which was eventually adapted into a [TV series](https://www.imdb.com/title/tt0283735/) and a [film](https://www.imdb.com/title/tt1219760/)).
 
-I loved the creativity of being able to draw abstractly in the two dimensional space, and have the three dimensional counterparts "magically" come to life. Therefore, in addition to avoiding copyright infringement, *Henry and the Blue Pencil* was born!.
+I loved the creativity of being able to draw abstractly in the two dimensional space, and have the three dimensional counterparts "magically" come to life. Therefore, to avoiding copyright infringement, *Henry and the Blue Pencil* was born!.
 
 **Tips**
 

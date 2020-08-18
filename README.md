@@ -1,5 +1,5 @@
-# Henry and the Blue Pencil
-(Virtual Reality) Henry goes on an adventure with his magic blue pencil, drawing whatever he wants into reality! But will he return safely home before his mother returns?
+# Henry and the Blue Pencil (Virtual Reality Game) 
+Henry goes on an adventure with his magic blue pencil, drawing whatever he wants into reality! But will he return safely home before his mother returns?
 
 **Controls for Oculus Touch**
 
@@ -9,7 +9,15 @@
 
 **Gameplay**
 
+<img src="Assets/Screenshots/Tree.png" title="Guides in game!" width="450px" height="350px"> <img src="Assets/Screenshots/Tree active.png" title="Trace freely!" width="450px" height="350px">
+
+The game includes a short adventure where you play as the child protagonist, Henry. You are guided from the beginning to start tracing glowing outlines to exit your bedroom and eventually create trees, cars, and more!
+
+<img src="Assets/Screenshots/Run.png" title="Draw at your own risk!">
+
+*Henry and the Blue Pencil* boasts a fun twist at the end.
 
 **Tips**
+
 - If you can't see a pencil in your right hand, ensure your Touch controllers are on and connected
 - Only draw when the pencil is physically touching an outline, and don't release until you are done tracing!
